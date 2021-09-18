@@ -9,9 +9,8 @@ Notes
  * [GDL 2](https://the-ninth-wave.github.io/geometric-deep-learning/jupyter/2020/05/02/GDL2.html)
 
  * [GDL 3](https://the-ninth-wave.github.io/geometric-deep-learning/jupyter/2020/05/03/GDL3.html)
-
+ 
  * [GDL 4](https://the-ninth-wave.github.io/geometric-deep-learning/jupyter/2020/05/04/GDL4.html)
-
 
 * On [statistical mechanics and spin glasses](https://the-ninth-wave.github.io/stat-mech)
 
