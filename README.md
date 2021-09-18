@@ -1,5 +1,10 @@
 # the-ninth-wave.github.io
 
+Projects
+
+* Faster R-CNN on dataset of math papers
+
+___
 Notes
 
 * On [geometric deep learning](https://the-ninth-wave.github.io/geometric-deep-learning)
