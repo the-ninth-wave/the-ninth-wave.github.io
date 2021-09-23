@@ -4,7 +4,7 @@
 
 [vision projects](https://the-ninth-wave.github.io/vision-projects) 
 
-* Faster R-CNN on dataset of math papers
+* Faster R-CNN on [dataset of math papers](https://the-ninth-wave.github.io/vision-projects/jupyter/2021/09/22/math-papers-v13.html)
 
 ___
 Notes
