@@ -6,6 +6,7 @@
 
 * Faster R-CNN on [dataset of math papers](https://the-ninth-wave.github.io/vision-projects/jupyter/2021/09/22/math-papers-v13.html)
 
+[papers_img.jpg]
 ___
 Notes
 
