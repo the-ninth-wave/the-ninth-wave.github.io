@@ -2,7 +2,7 @@
 
 ### Projects
 
-[vision projects](https://the-ninth-wave.github.io) 
+[vision projects](https://the-ninth-wave.github.io/vision-projects) 
 
 * Faster R-CNN on dataset of math papers
 
