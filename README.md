@@ -8,6 +8,7 @@
 
 ![](https://github.com/the-ninth-wave/the-ninth-wave.github.io/blob/main/v17_header.jpg)
 ___
+
 Notes
 
 * on [geometric deep learning](https://the-ninth-wave.github.io/geometric-deep-learning)
