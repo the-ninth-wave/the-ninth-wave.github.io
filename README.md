@@ -1,14 +1,14 @@
-# the-ninth-wave.github.io
+# homepage of Julian Gold
 
-### Projects
+## machine learning projects
+
+
 
 [vision projects](https://the-ninth-wave.github.io/vision-projects) 
 
 > Faster R-CNN on [dataset of math papers](https://the-ninth-wave.github.io/vision-projects/jupyter/2021/10/21/math-papers-v17.html)
 
-![](https://github.com/the-ninth-wave/the-ninth-wave.github.io/blob/main/v17_header.jpg)
-
-### Notes
+## notes
 
 notes on [geometric deep learning](https://the-ninth-wave.github.io/geometric-deep-learning)
 
