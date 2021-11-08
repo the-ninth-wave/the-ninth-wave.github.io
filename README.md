@@ -1,5 +1,13 @@
 ## homepage of Julian Gold
 
+### about
+
+[cv](https://the-ninth-wave.github.io/gold_cv.pdf)
+
+[publications, preprints](https://the-ninth-wave.github.io/gold_papers.pdf)
+
+
+
 ### machine learning projects
 
 
