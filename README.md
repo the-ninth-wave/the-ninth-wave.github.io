@@ -1,6 +1,6 @@
-# homepage of Julian Gold
+## homepage of Julian Gold
 
-## machine learning projects
+### machine learning projects
 
 
 
@@ -8,7 +8,7 @@
 
 > Faster R-CNN on [dataset of math papers](https://the-ninth-wave.github.io/vision-projects/jupyter/2021/10/21/math-papers-v17.html)
 
-## notes
+### notes
 
 notes on [geometric deep learning](https://the-ninth-wave.github.io/geometric-deep-learning)
 
