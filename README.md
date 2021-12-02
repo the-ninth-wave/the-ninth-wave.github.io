@@ -4,7 +4,7 @@
 
 [cv](https://the-ninth-wave.github.io/gold_cv.pdf)
 
-[publications, preprints](https://the-ninth-wave.github.io/gold_papers.pdf)
+[publications, preprints](https://the-ninth-wave.github.io/papers/)
 
 
 
