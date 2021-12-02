@@ -1,6 +1,6 @@
-## ( homepage of Julian Gold )
+# homepage of Julian Gold
 
-### about
+## about
 
 [cv](https://the-ninth-wave.github.io/gold_cv.pdf)
 
@@ -8,7 +8,7 @@
 
 
 
-### machine learning projects
+## machine learning projects
 
 
 
@@ -16,16 +16,13 @@
 
 > Faster R-CNN on [dataset of math papers](https://the-ninth-wave.github.io/vision-projects/jupyter/2021/10/21/math-papers-v17.html)
 
-### notes
+## notes
 
 notes on [geometric deep learning](https://the-ninth-wave.github.io/geometric-deep-learning)
 
 > [GDL notebook 1](https://the-ninth-wave.github.io/geometric-deep-learning/jupyter/2021/10/21/GDL1.html)
 
 > [GDL notebook 2](https://the-ninth-wave.github.io/geometric-deep-learning/jupyter/2021/10/24/GDL2.html)
-
-
-
 
 notes on [statistical mechanics and spin glasses](https://the-ninth-wave.github.io/stat-mech)
 
