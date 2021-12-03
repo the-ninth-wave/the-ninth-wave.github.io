@@ -4,7 +4,7 @@
 ![](gold_head.jpg)
 
 I'm an academic researcher transitioning into machine learning. My academic training is in probability
-theory. To develop my computer vision skillset, I trained the Faster R-CNN architecture on a custom dataset built from pdf documents.
+theory. To develop my computer vision skillset, I trained the Faster R-CNN architecture on a custom dataset built from pdf documents. My github username is from [music](https://en.wikipedia.org/wiki/Hounds_of_Love) I like. :)
 
 | | | | |
 |---|---|---|---|
