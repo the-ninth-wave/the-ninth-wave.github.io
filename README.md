@@ -1,15 +1,20 @@
-# homepage of Julian Gold
+#### _( homepage of Julian Gold )_
 
-## about
+
+![](gold_head.jpg)
+
 
 [cv](https://the-ninth-wave.github.io/gold_cv.pdf)
 
 [publications, preprints](https://the-ninth-wave.github.io/papers/)
 
+I'm an academic researcher transitioning into machine learning. My academic training is in probability
+theory. To develop my computer vision skillset, I trained the Faster R-CNN architecture on a custom dataset built from pdf documents.
+
+
 
 
 ## machine learning projects
-
 
 
 [vision projects](https://the-ninth-wave.github.io/vision-projects) 
