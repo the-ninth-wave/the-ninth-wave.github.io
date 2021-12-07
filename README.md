@@ -7,7 +7,7 @@ theory. To develop my computer vision skillset, I trained the Faster R-CNN archi
 
 | | | | |
 |---|---|---|---|
-| [cv](https://the-ninth-wave.github.io/gold_cv.pdf) | [publications, preprints](https://the-ninth-wave.github.io/papers/) | [linkedin](https://www.linkedin.com/in/julian-gold-18a5b967/) | [github](https://github.com/the-ninth-wave) |
+| [resume](https://the-ninth-wave.github.io/gold_cv.pdf) | [publications, preprints](https://the-ninth-wave.github.io/papers/) | [linkedin](https://www.linkedin.com/in/julian-gold-18a5b967/) | [github](https://github.com/the-ninth-wave) |
 
 ## machine learning projects
 
