@@ -2,7 +2,6 @@
 
 <img src="sky.jpg" alt="" width="200"/>
 
-___
 
 <img src="gold_head.jpg" alt="" width="200"/>
 
