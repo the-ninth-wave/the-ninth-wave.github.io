@@ -1,4 +1,4 @@
-<img src="sky.jpg" alt="" width="200"/>
+<img src="gold_a_sky.jpg" alt="" width="200"/>
 
 #### _( homepage of Julian Gold )_
 
