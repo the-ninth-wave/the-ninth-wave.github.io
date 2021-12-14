@@ -22,11 +22,11 @@ theory. To develop my computer vision skillset, I trained the Faster R-CNN archi
 
 [geometric deep learning](https://the-ninth-wave.github.io/geometric-deep-learning)
 
-> [GDL notebook 1](https://the-ninth-wave.github.io/geometric-deep-learning/jupyter/2021/10/21/GDL1.html) <pre></pre>
+> [notebook one](https://the-ninth-wave.github.io/geometric-deep-learning/jupyter/2021/10/21/GDL1.html) <pre></pre>
 
-> [GDL notebook 2](https://the-ninth-wave.github.io/geometric-deep-learning/jupyter/2021/10/24/GDL2.html) <pre></pre>
+> [notebook two](https://the-ninth-wave.github.io/geometric-deep-learning/jupyter/2021/10/24/GDL2.html) <pre></pre>
 
 [statistical mechanics](https://the-ninth-wave.github.io/stat-mech)
 
-> [stat. mech. notebook 1](https://the-ninth-wave.github.io/stat-mech/jupyter/2019/04/01/M450-Lec1.html) <pre></pre>
+> [notebook one](https://the-ninth-wave.github.io/stat-mech/jupyter/2019/04/01/M450-Lec1.html) <pre></pre>
 
