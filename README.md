@@ -16,7 +16,7 @@ theory. To develop my computer vision skillset, I trained the Faster R-CNN archi
 
 [vision projects](https://the-ninth-wave.github.io/vision-projects) 
 
-> Faster R-CNN on [dataset of math papers](https://the-ninth-wave.github.io/vision-projects/jupyter/2021/10/21/math-papers-v17.html) $\quad$ This notebook contains a machine learning pipeline built for a custom dataset. I assembled the dataset from a collection of pdfs, a corpus of scientific documents. 
+> Faster R-CNN on [dataset of math papers](https://the-ninth-wave.github.io/vision-projects/jupyter/2021/10/21/math-papers-v17.html) &nbsp This notebook contains a machine learning pipeline built for a custom dataset. I assembled the dataset from a collection of pdfs, a corpus of scientific documents. 
 
 ## notes
 
