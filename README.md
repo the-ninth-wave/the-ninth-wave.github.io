@@ -16,7 +16,7 @@ theory. To develop my computer vision skillset, I trained the Faster R-CNN archi
 
 [vision projects](https://the-ninth-wave.github.io/vision-projects) 
 
-> Faster R-CNN on [dataset of math papers](https://the-ninth-wave.github.io/vision-projects/jupyter/2021/10/21/math-papers-v17.html) <pre></pre> This notebook contains a machine learning pipeline built for a custom dataset. I assembled the dataset from a collection of pdfs, a corpus of scientific documents. Feeding the data into a PyTorch implementation of the [Faster R-CNN](https://towardsdatascience.com/faster-rcnn-object-detection-f865e5ed7fc4) architecture, I trained the network to draw bounding boxes around labeled equations, those which are referenced throughout the paper. I see this as a small first step towards a more intricate object detection tool for extracting the logical structure of a math paper (to begin with) given its input as a pdf.
+> [papers object detection](https://the-ninth-wave.github.io/vision-projects/jupyter/2021/10/21/math-papers-v17.html) <pre></pre> This notebook contains a machine learning pipeline built for a custom dataset. I assembled the dataset from a collection of pdfs, a corpus of scientific documents. Feeding the data into a PyTorch implementation of the [Faster R-CNN](https://towardsdatascience.com/faster-rcnn-object-detection-f865e5ed7fc4) architecture, I trained the network to draw bounding boxes around labeled equations, those which are referenced throughout the paper. I see this as a small first step towards a more intricate object detection tool for extracting the logical structure of a math paper (to begin with) given its input as a pdf.
 
 ## notes
 
