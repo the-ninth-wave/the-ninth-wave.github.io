@@ -1,7 +1,6 @@
-#### _( homepage of Julian Gold )_
-
 <img src="sky.jpg" alt="" width="200"/>
 
+#### _( homepage of Julian Gold )_
 
 <img src="gold_head.jpg" alt="" width="200"/>
 
