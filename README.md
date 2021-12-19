@@ -28,5 +28,5 @@ theory. To develop my computer vision skillset, I trained the Faster R-CNN archi
 
 [statistical mechanics and simulation](https://the-ninth-wave.github.io/stat-mech)
 
-> __[__ [Ising model](https://the-ninth-wave.github.io/stat-mech/jupyter/2021/12/16/simulation.html) __]__ ... 
+> __[__ [Ising model](https://the-ninth-wave.github.io/stat-mech/2021/12/16/simulation.html) __]__ ... 
 
