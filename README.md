@@ -6,8 +6,7 @@
 
 I'm an academic researcher transitioning into a machine learning research scientist or research engineer. My academic training is in probability theory. My github username is from [music](https://en.wikipedia.org/wiki/Hounds_of_Love) I like. :)
 
-| [resume](https://the-ninth-wave.github.io/gold_resume.pdf)  | [publications, preprints](https://the-ninth-wave.github.io/papers/) | [linkedin](https://www.linkedin.com/in/julian-gold) | [github](https://github.com/the-ninth-wave) |
-|---|---|---|---|
+| [resume](https://the-ninth-wave.github.io/gold_resume.pdf)  | [publications and preprints](https://the-ninth-wave.github.io/papers/) | [linkedin](https://www.linkedin.com/in/julian-gold) | [github](https://github.com/the-ninth-wave) |
 
 ### machine learning projects
 
