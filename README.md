@@ -8,18 +8,17 @@ I'm an academic researcher transitioning into a machine learning research scient
 
 | [resume](https://the-ninth-wave.github.io/gold_resume.pdf)  | [publications, preprints](https://the-ninth-wave.github.io/papers/) | [linkedin](https://www.linkedin.com/in/julian-gold) | [github](https://github.com/the-ninth-wave) |
 |---|---|---|---|
-| |  |  |  |
 
-## machine learning projects
+### machine learning projects
 
 
 [vision projects](https://the-ninth-wave.github.io/vision-projects) 
 
-> __[__ [papers object detection](https://the-ninth-wave.github.io/vision-projects/jupyter/2021/10/21/math-papers-v17.html) __]__ ...  To develop my computer vision skillset, I trained the Faster R-CNN architecture on a custom dataset built from pdf documents.
+> __[__ [papers object detection](https://the-ninth-wave.github.io/vision-projects/jupyter/2021/10/21/math-papers-v17.html) __]__ ...  I built a ML pipeline for the Faster R-CNN architecture trained on a custom dataset built from pdf documents.
 > 
 >   This notebook contains a machine learning pipeline built for a custom dataset. I assembled the dataset from a collection of pdfs, a corpus of scientific documents. Feeding the data into a PyTorch implementation of the [Faster R-CNN](https://towardsdatascience.com/faster-rcnn-object-detection-f865e5ed7fc4) architecture, I trained the network to draw bounding boxes around labeled equations, those which are referenced throughout the paper. I see this as a small first step towards a more intricate object detection tool for extracting the logical structure of a math paper (to begin with) given its input as a pdf.
 
-## notes
+### notes
 
 [geometric deep learning](https://the-ninth-wave.github.io/geometric-deep-learning)
 
