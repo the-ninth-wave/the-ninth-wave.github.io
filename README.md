@@ -13,7 +13,7 @@ I'm an academic researcher transitioning into a role as a machine learning resea
 
 [vision projects](https://the-ninth-wave.github.io/vision-projects) 
 
-> __[__ [papers object detection](https://the-ninth-wave.github.io/vision-projects/jupyter/2021/10/21/math-papers-v17.html) __]__ ...  An ML pipeline built for the [Faster R-CNN](https://towardsdatascience.com/faster-rcnn-object-detection-f865e5ed7fc4) architecture, trained on a hand-built dataset. 
+> __[__ [papers object detection](https://the-ninth-wave.github.io/vision-projects/jupyter/2021/10/21/math-papers-v17.html) __]__ ...  An ML pipeline built for the [Faster R-CNN](https://towardsdatascience.com/faster-rcnn-object-detection-f865e5ed7fc4) architecture, trained on a dataset built from scratch.
 
 ### notes
 
