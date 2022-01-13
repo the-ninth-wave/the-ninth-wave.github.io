@@ -19,9 +19,9 @@ I'm an academic researcher transitioning into a role as a machine learning resea
 
 [geometric deep learning](https://the-ninth-wave.github.io/geometric-deep-learning)
 
-> __[__ [notebook one](https://the-ninth-wave.github.io/geometric-deep-learning/jupyter/2021/10/21/GDL1.html) __]__ ... Notes on the geometric deep learning [blueprint](https://arxiv.org/abs/2104.13478). 
+> __[__ [notebook 1](https://the-ninth-wave.github.io/geometric-deep-learning/jupyter/2021/10/21/GDL1.html) __]__ ... Notes on the geometric deep learning [blueprint](https://arxiv.org/abs/2104.13478). 
 
-> __[__ [notebook two](https://the-ninth-wave.github.io/geometric-deep-learning/jupyter/2021/10/24/GDL2.html) __]__ ... PyTorch implementations. 
+> __[__ [notebook 2](https://the-ninth-wave.github.io/geometric-deep-learning/jupyter/2021/10/24/GDL2.html) __]__ ... PyTorch implementations. 
 
 [statistical mechanics and simulation](https://the-ninth-wave.github.io/stat-mech)
 
