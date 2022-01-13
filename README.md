@@ -25,4 +25,4 @@ I'm an academic researcher transitioning into a machine learning research scient
 
 [statistical mechanics and simulation](https://the-ninth-wave.github.io/stat-mech)
 
-> __[__ [Ising model](https://the-ninth-wave.github.io/stat-mech/jupyter/2021/12/16/simulation.html) __]__ ... Notes on simulation. 
+> __[__ [Ising model dynamics](https://the-ninth-wave.github.io/stat-mech/jupyter/2021/12/16/simulation.html) __]__ ... Notes on simulation. 
