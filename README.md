@@ -4,7 +4,7 @@
 
 <img src="gold_head.jpg" alt="" width="200"/>
 
-I'm an academic researcher transitioning into a machine learning research scientist. My academic training is in probability theory. My github username is from [music](https://en.wikipedia.org/wiki/Hounds_of_Love) I like. :)
+I'm an academic researcher transitioning into a role as a machine learning research scientist. My academic training is in probability theory. My github username is from [music](https://en.wikipedia.org/wiki/Hounds_of_Love) I like. :)
 
 | [resume](https://the-ninth-wave.github.io/gold_resume.pdf)  | [publications and preprints](https://the-ninth-wave.github.io/papers/) | [linkedin](https://www.linkedin.com/in/julian-gold) | [github](https://github.com/the-ninth-wave) |
 
