@@ -4,7 +4,7 @@
 
 <img src="gold_head.jpg" alt="" width="200"/>
 
-I'm an academic researcher transitioning into a machine learning research scientist or research engineer. My academic training is in probability theory. My github username is from [music](https://en.wikipedia.org/wiki/Hounds_of_Love) I like. :)
+I'm an academic researcher transitioning into a machine learning research scientist. My academic training is in probability theory. My github username is from [music](https://en.wikipedia.org/wiki/Hounds_of_Love) I like. :)
 
 | [resume](https://the-ninth-wave.github.io/gold_resume.pdf)  | [publications and preprints](https://the-ninth-wave.github.io/papers/) | [linkedin](https://www.linkedin.com/in/julian-gold) | [github](https://github.com/the-ninth-wave) |
 
@@ -13,7 +13,7 @@ I'm an academic researcher transitioning into a machine learning research scient
 
 [vision projects](https://the-ninth-wave.github.io/vision-projects) 
 
-> __[__ [papers object detection](https://the-ninth-wave.github.io/vision-projects/jupyter/2021/10/21/math-papers-v17.html) __]__ ...  This notebook details a ML pipeline built for the [Faster R-CNN](https://towardsdatascience.com/faster-rcnn-object-detection-f865e5ed7fc4) architecture trained on a custom dataset of pdf documents.
+> __[__ [papers object detection](https://the-ninth-wave.github.io/vision-projects/jupyter/2021/10/21/math-papers-v17.html) __]__ ...  An ML pipeline built for the [Faster R-CNN](https://towardsdatascience.com/faster-rcnn-object-detection-f865e5ed7fc4) architecture, trained on a hand-built dataset. 
 
 ### notes
 
