@@ -1,22 +1,22 @@
 _# Publications
 
 1. **Learning Latent Trajectories in Developmental Time Series with Hidden-Markov Optimal Transport**  
-   *Author(s)*  
+   [P. Halmos](https://www.linkedin.com/in/peter-halmos-680937124)$^{ * }$, J. Gold $^{ * }$, [X. Liu](https://scholar.google.com/citations?user=ZiK_z9EAAAAJ&hl=en), and  [B. Raphael](https://www.cs.princeton.edu/~braphael/)  
    *Journal Name, Year*  
    [Read more](link-to-paper-1)
 
 2. **Low-Rank Optimal Transport through Factor Relaxation with Latent Coupling**  
-   with [P. Halmos](https://www.linkedin.com/in/peter-halmos-680937124)$^{ * }$, [X. Liu](https://scholar.google.com/citations?user=ZiK_z9EAAAAJ&hl=en)$^{ * }$, J. Gold$\,^{ * }$, and [B. Raphael](https://www.cs.princeton.edu/~braphael/)  
+   [P. Halmos](https://www.linkedin.com/in/peter-halmos-680937124)$^{ * }$, [X. Liu](https://scholar.google.com/citations?user=ZiK_z9EAAAAJ&hl=en)$^{ * }$, J. Gold $^{ * }$, and [B. Raphael](https://www.cs.princeton.edu/~braphael/)  
    *The Thirty-eighth Annual Conference on Neural Information Processing Systems*
    [Read more](link-to-paper-1)
 
 
 4. **A count-based model for delineating cell--cell interactions in spatial transcriptomics data**  
-   with [H. Sarkar](https://www.hiraksarkar.com)$^{ * }$, [U. Chitra](https://uthsavc.github.io)$^{ * }$, J. Gold, and [B. Raphael](https://www.cs.princeton.edu/~braphael/)  
+   [H. Sarkar](https://www.hiraksarkar.com)$^{ * }$, [U. Chitra](https://uthsavc.github.io)$^{ * }$, J. Gold, and [B. Raphael](https://www.cs.princeton.edu/~braphael/)  
    *Bioinformatics, Volume 40, Number Supplement\_1, Pages i481--i489, 2024 (Oxford University Press)*
 
 5. **`DeST-OT`: Alignment of Spatiotemporal Transcriptomics Data**  
-   with [P. Halmos](https://www.linkedin.com/in/peter-halmos-680937124)$^{ * }$, [X. Liu](https://scholar.google.com/citations?user=ZiK_z9EAAAAJ&hl=en)$^{ * }$, J. Gold, [F. Chen](https://nephrology.wustl.edu/people/feng-chen-phd/), [L. Ding](https://dinglab.wustl.edu), and [B. Raphael](https://www.cs.princeton.edu/~braphael/)  
+   [P. Halmos](https://www.linkedin.com/in/peter-halmos-680937124)$^{ * }$, [X. Liu](https://scholar.google.com/citations?user=ZiK_z9EAAAAJ&hl=en)$^{ * }$, J. Gold, [F. Chen](https://nephrology.wustl.edu/people/feng-chen-phd/), [L. Ding](https://dinglab.wustl.edu), and [B. Raphael](https://www.cs.princeton.edu/~braphael/)  
    *International Conference on Research in Computational Molecular Biology, Pages 434--437, 2024 (Springer)*
 
 
