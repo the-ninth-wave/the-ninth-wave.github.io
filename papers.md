@@ -14,10 +14,11 @@
 4. **A count-based model for delineating cell-cell interactions in spatial transcriptomics data**  
    [H. Sarkar](https://www.hiraksarkar.com)$^{ * }$, [U. Chitra](https://uthsavc.github.io)$^{ * }$, J. Gold, and [B. Raphael](https://www.cs.princeton.edu/~braphael/)  
    *Bioinformatics, Volume 40, Issue Supplement 1, Pages i481--i489, 2024*
+   [Journal](https://academic.oup.com/bioinformatics/article/40/Supplement_1/i481/7700859), 
 
-5. **`DeST-OT`: Alignment of Spatiotemporal Transcriptomics Data**  
+6. **`DeST-OT`: Alignment of Spatiotemporal Transcriptomics Data**  
    [P. Halmos](https://www.linkedin.com/in/peter-halmos-680937124)$^{ * }$, [X. Liu](https://scholar.google.com/citations?user=ZiK_z9EAAAAJ&hl=en)$^{ * }$, J. Gold, [F. Chen](https://nephrology.wustl.edu/people/feng-chen-phd/), [L. Ding](https://dinglab.wustl.edu), and [B. Raphael](https://www.cs.princeton.edu/~braphael/)  
-   *International Conference on Research in Computational Molecular Biology, Pages 434--437, 2024*
+   *International Conference on Research in Computational Molecular Biology, Pages 434--437, 2024*   
    *To appear in Cell Systems*
 
 
