@@ -2,15 +2,15 @@
 
 ## Selected Papers
 
-1. **Paper Title 1**  
+1. Learning Latent Trajectories in Developmental Time Series with Hidden-Markov Optimal Transport
   *Journal Name, Year*.  
   [Read more](link-to-paper-1)
 
-2. **Paper Title 2**  
+2. Low-Rank Optimal Transport through Factor Relaxation with Latent Coupling
   *Journal Name, Year*.  
   [Read more](link-to-paper-2)
 
-3. **Paper Title 3**  
+3. A count-based model for delineating cell-cell interactions in spatial transcriptomics data
   *Journal Name, Year*.  
   [Read more](link-to-paper-3)
 
