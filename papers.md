@@ -29,11 +29,11 @@
 
 7. **Dynamical freezing in a spin glass system with logarithmic correlations**  
    with [A. Cortines](http://user.math.uzh.ch/cortines/) and [O. Louidor](https://ie.technion.ac.il/~olouidor/).  
-   *Journal Name, Year*
+   *Electronic Journal of Probability, Volume 23, Number 59, Pages 1–31, 2018*
 
 8. **Intrinsic isoperimetry of the giant component of supercritical bond percolation in dimension two**  
-   *Author(s)*  
-   *Journal Name, Year*
+   *Julian Gold*  
+   *Electronic Journal of Probability, Volume 23, Number 53, Pages 1–41, 2018*
 
 9. **Isoperimetry in supercritical bond percolation in dimensions three and higher**  
    *Julian Gold*  
