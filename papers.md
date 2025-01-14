@@ -7,7 +7,7 @@
 
 2. **Low-Rank Optimal Transport through Factor Relaxation with Latent Coupling**  
    [P. Halmos](https://www.linkedin.com/in/peter-halmos-680937124)$^{ * }$, [X. Liu](https://scholar.google.com/citations?user=ZiK_z9EAAAAJ&hl=en)$^{ * }$, J. Gold $^{ * }$, and [B. Raphael](https://www.cs.princeton.edu/~braphael/)  
-   *The Thirty-eighth Annual Conference on Neural Information Processing Systems*
+   *The Thirty-eighth Annual Conference on Neural Information Processing Systems*   
    [Read more](link-to-paper-1)
 
 
