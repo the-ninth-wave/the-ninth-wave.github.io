@@ -1,4 +1,4 @@
-# Publications
+_# Publications
 
 1. **Learning Latent Trajectories in Developmental Time Series with Hidden-Markov Optimal Transport**  
    *Author(s)*  
@@ -45,3 +45,4 @@
     *Algebraic & Geometric Topology, Volume 13, Number 6, Pages 3099–3110, 2013*
 
 [Back to homepage](README.md)
+_
