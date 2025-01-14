@@ -12,11 +12,11 @@ _# Publications
 
 
 4. **A count-based model for delineating cell--cell interactions in spatial transcriptomics data**  
-   with [H. Sarkar](https://www.hiraksarkar.com)$^{1,*}$, [U. Chitra](https://uthsavc.github.io)$^{1,*}$, J. Gold, and [B. Raphael](https://www.cs.princeton.edu/~braphael/)  
+   with [H. Sarkar](https://www.hiraksarkar.com)$^{1, * }$, [U. Chitra](https://uthsavc.github.io)$^{1, * }$, J. Gold, and [B. Raphael](https://www.cs.princeton.edu/~braphael/)  
    *Bioinformatics, Volume 40, Number Supplement\_1, Pages i481--i489, 2024 (Oxford University Press)*
 
 5. **`DeST-OT`: Alignment of Spatiotemporal Transcriptomics Data**  
-   with [P. Halmos](https://www.linkedin.com/in/peter-halmos-680937124)$^{1,*}$, [X. Liu](https://scholar.google.com/citations?user=ZiK_z9EAAAAJ&hl=en)$^{1,*}$, J. Gold, [F. Chen](https://nephrology.wustl.edu/people/feng-chen-phd/), [L. Ding](https://dinglab.wustl.edu), and [B. Raphael](https://www.cs.princeton.edu/~braphael/)  
+   with [P. Halmos](https://www.linkedin.com/in/peter-halmos-680937124)$^{1, * }$, [X. Liu](https://scholar.google.com/citations?user=ZiK_z9EAAAAJ&hl=en)$^{1, * }$, J. Gold, [F. Chen](https://nephrology.wustl.edu/people/feng-chen-phd/), [L. Ding](https://dinglab.wustl.edu), and [B. Raphael](https://www.cs.princeton.edu/~braphael/)  
    *International Conference on Research in Computational Molecular Biology, Pages 434--437, 2024 (Springer)*
 
 
