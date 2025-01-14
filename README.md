@@ -5,3 +5,5 @@
 <img src="gold_head.jpg" alt="" width="200"/>
 
 I am a [Schmidt DataX Data Scientist](https://csml.princeton.edu/people/julian-gold) at Princeton. My academic training is in probability theory. My github username is from [music](https://en.wikipedia.org/wiki/Hounds_of_Love) I like. :)
+
+[Papers](papers.md)
