@@ -1,13 +1,14 @@
-_# Publications
+# Publications
 
 1. **Learning Latent Trajectories in Developmental Time Series with Hidden-Markov Optimal Transport**  
    [P. Halmos](https://www.linkedin.com/in/peter-halmos-680937124)$^{ * }$, J. Gold $^{ * }$, [X. Liu](https://scholar.google.com/citations?user=ZiK_z9EAAAAJ&hl=en), and  [B. Raphael](https://www.cs.princeton.edu/~braphael/)  
-   *Journal Name, Year*  
+   *Accepted to RECOMB 2025*  
    [Read more](link-to-paper-1)
 
 2. **Low-Rank Optimal Transport through Factor Relaxation with Latent Coupling**  
    [P. Halmos](https://www.linkedin.com/in/peter-halmos-680937124)$^{ * }$, [X. Liu](https://scholar.google.com/citations?user=ZiK_z9EAAAAJ&hl=en)$^{ * }$, J. Gold $^{ * }$, and [B. Raphael](https://www.cs.princeton.edu/~braphael/)  
    *The Thirty-eighth Annual Conference on Neural Information Processing Systems*
+   
    [Read more](link-to-paper-1)
 
 
