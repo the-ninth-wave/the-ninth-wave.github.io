@@ -10,14 +10,14 @@
    *Journal Name, Year*  
    [Read more](link-to-paper-2)
 
-3. **A count-based model for delineating cell-cell interactions in spatial transcriptomics data**  
-   *Author(s)*  
-   *Journal Name, Year*  
-   [Read more](link-to-paper-3)
+3. **A count-based model for delineating cell--cell interactions in spatial transcriptomics data**  
+   with [H. Sarkar](https://www.hiraksarkar.com)\(^{1}\), [U. Chitra](https://uthsavc.github.io)\(^{1}\), J. Gold\(^{2}\), and [B. Raphael](https://www.cs.princeton.edu/~braphael/)  
+   *Bioinformatics, Volume 40, Number Supplement\_1, Pages i481--i489, 2024 (Oxford University Press)*
 
 4. **`DeST-OT`: Alignment of Spatiotemporal Transcriptomics Data**  
-   *Author(s)*  
-   *Journal Name, Year*
+   with [P. Halmos](https://www.linkedin.com/in/peter-halmos-680937124)\(^{1}\), [X. Liu](https://scholar.google.com/citations?user=ZiK_z9EAAAAJ&hl=en)\(^{1}\), J. Gold\(^{2}\), [F. Chen](https://nephrology.wustl.edu/people/feng-chen-phd/), [L. Ding](https://dinglab.wustl.edu), and [B. Raphael](https://www.cs.princeton.edu/~braphael/)  
+   *International Conference on Research in Computational Molecular Biology, Pages 434--437, 2024 (Springer)*
+
 
 5. **On the number and size of holes in the growing ball of first-passage percolation**  
    with [M. Damron](https://people.math.gatech.edu/~mdamron6/), [W-K. Lam](https://wk-lam.github.io/), and [X. Shen](https://people.math.wisc.edu/~xshen/)  
@@ -25,7 +25,7 @@
 
 6. **The number of saddles of the spherical $p$-spin model**  
    with [A. Auffinger](http://math.northwestern.edu/~auffing/)
-   (Preprint, [arXiv:2007.09269](https://arxiv.org/pdf/2007.09269.pdf)
+   (Preprint, [arXiv:2007.09269](https://arxiv.org/pdf/2007.09269.pdf))
 
 8. **Dynamical freezing in a spin glass system with logarithmic correlations**  
    with [A. Cortines](http://user.math.uzh.ch/cortines/) and [O. Louidor](https://ie.technion.ac.il/~olouidor/).  
