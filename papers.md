@@ -21,6 +21,7 @@
 6. The number of saddles of the spherical $p$-spin model 
 
 7. Dynamical freezing in a spin glass system with logarithmic correlations
+   with [A. Cortines](http://user.math.uzh.ch/cortines/) and \href{https://ie.technion.ac.il/~olouidor/}{O. Louidor}. 
 
 8. Intrinsic isoperimetry of the giant component of supercritical bond percolation in dimension two
 
