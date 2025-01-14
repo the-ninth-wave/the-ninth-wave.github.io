@@ -40,7 +40,7 @@
    *Journal Name, Year*
 
 10. **A bound for orderings of Reidemeister moves.**  
-    *Author(s)*  
-    *Journal Name, Year*
+    *Julian Gold*  
+    *Algebraic & Geometric Topology, Volume 13, Number 6, Pages 3099–3110, 2013*
 
 [Back to homepage](README.md)
