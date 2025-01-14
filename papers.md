@@ -11,7 +11,7 @@
    [OpenReview](https://openreview.net/forum?id=hGgkdFF2hR), [arXiv](link), [poster](link)
 
 
-4. **A count-based model for delineating cell$ - $cell interactions in spatial transcriptomics data**  
+4. **A count-based model for delineating cell$-$cell interactions in spatial transcriptomics data**  
    [H. Sarkar](https://www.hiraksarkar.com)$^{ * }$, [U. Chitra](https://uthsavc.github.io)$^{ * }$, J. Gold, and [B. Raphael](https://www.cs.princeton.edu/~braphael/)  
    *Bioinformatics, Volume 40, Issue Supplement 1, Pages i481--i489, 2024*
 
