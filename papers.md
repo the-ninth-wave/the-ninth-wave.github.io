@@ -35,9 +35,9 @@
    *Author(s)*  
    *Journal Name, Year*
 
-9. **Isoperimetry in supercritical bond percolation in dimensions three and higher.**  
-   *Author(s)*  
-   *Journal Name, Year*
+9. **Isoperimetry in supercritical bond percolation in dimensions three and higher**  
+   *Julian Gold*  
+   *Annales de l’institut Henri Poincaré (B) Probability and Statistics, Volume 54, Number 4, Pages 2092–2158, 2018*
 
 10. **A bound for orderings of Reidemeister moves.**  
     *Julian Gold*  
