@@ -7,25 +7,25 @@
    *(Submitted to ICML)*
 
 2. **Anomaly Detection in Spatial Transcriptomics via Spatially Localized Density Comparison**  
-   [G. Hu](https://raphael-group.github.io/people/)$^{*}$, J. Gold, [U. Chitra](https://uthsavc.github.io), [S. Joshi](https://www.linkedin.com/in/sunay-joshi/), and [B.J. Raphael](https://www.cs.princeton.edu/~braphael/)  
+   [G. Hu](https://raphael-group.github.io/people/)$^{ * }$, J. Gold, [U. Chitra](https://uthsavc.github.io), [S. Joshi](https://www.linkedin.com/in/sunay-joshi/), and [B.J. Raphael](https://www.cs.princeton.edu/~braphael/)  
    *(Submitted to ISMB)*
 
 3. **Learning Latent Trajectories in Developmental Time Series with Hidden-Markov Optimal Transport**  
-   [P. Halmos](https://www.linkedin.com/in/peter-halmos-680937124)$^{*}$, J. Gold$^{*}$, [X. Liu](https://scholar.google.com/citations?user=ZiK_z9EAAAAJ&hl=en), and [B.J. Raphael](https://www.cs.princeton.edu/~braphael/)  
+   [P. Halmos](https://www.linkedin.com/in/peter-halmos-680937124)$^{ * }$, J. Gold$^{ * }$, [X. Liu](https://scholar.google.com/citations?user=ZiK_z9EAAAAJ&hl=en), and [B.J. Raphael](https://www.cs.princeton.edu/~braphael/)  
    *Accepted to RECOMB 2025*  
 
 4. **Low-Rank Optimal Transport through Factor Relaxation with Latent Coupling**  
-   [P. Halmos](https://www.linkedin.com/in/peter-halmos-680937124)$^{*}$, [X. Liu](https://scholar.google.com/citations?user=ZiK_z9EAAAAJ&hl=en)$^{*}$, J. Gold$^{*}$, and [B.J. Raphael](https://www.cs.princeton.edu/~braphael/)  
+   [P. Halmos](https://www.linkedin.com/in/peter-halmos-680937124)$^{ * }$, [X. Liu](https://scholar.google.com/citations?user=ZiK_z9EAAAAJ&hl=en)$^{ * }$, J. Gold$^{ * }$, and [B.J. Raphael](https://www.cs.princeton.edu/~braphael/)  
    *The Thirty-Eighth Annual Conference on Neural Information Processing Systems (NeurIPS), 2024*  
    [OpenReview](https://openreview.net/forum?id=hGgkdFF2hR)
 
 5. **A count-based model for delineating cell-cell interactions in spatial transcriptomics data**  
-   [H. Sarkar](https://www.hiraksarkar.com)$^{*}$, [U. Chitra](https://uthsavc.github.io)$^{*}$, J. Gold, and [B.J. Raphael](https://www.cs.princeton.edu/~braphael/)  
+   [H. Sarkar](https://www.hiraksarkar.com)$^{ * }$, [U. Chitra](https://uthsavc.github.io)$^{ * }$, J. Gold, and [B.J. Raphael](https://www.cs.princeton.edu/~braphael/)  
    *Bioinformatics, Volume 40, Issue Supplement 1, Pages i481--i489, 2024*  
    [Journal](https://academic.oup.com/bioinformatics/article/40/Supplement_1/i481/7700859)
 
 6. **`DeST-OT`: Alignment of Spatiotemporal Transcriptomics Data**  
-   [P. Halmos](https://www.linkedin.com/in/peter-halmos-680937124)$^{*}$, [X. Liu](https://scholar.google.com/citations?user=ZiK_z9EAAAAJ&hl=en)$^{*}$, J. Gold, [F. Chen](https://nephrology.wustl.edu/people/feng-chen-phd/), [L. Ding](https://dinglab.wustl.edu), and [B.J. Raphael](https://www.cs.princeton.edu/~braphael/)  
+   [P. Halmos](https://www.linkedin.com/in/peter-halmos-680937124)$^{ * }$, [X. Liu](https://scholar.google.com/citations?user=ZiK_z9EAAAAJ&hl=en)$^{ * }$, J. Gold, [F. Chen](https://nephrology.wustl.edu/people/feng-chen-phd/), [L. Ding](https://dinglab.wustl.edu), and [B.J. Raphael](https://www.cs.princeton.edu/~braphael/)  
    *International Conference on Research in Computational Molecular Biology, Pages 434--437, 2024*  
    *Appearing in [Cell Systems](https://www.sciencedirect.com/science/article/pii/S240547122400365X), 2025, ISSN: 2405-4712*
 
