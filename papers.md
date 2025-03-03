@@ -3,7 +3,7 @@
 ## Publications and Preprints
 
 1. **Full-Rank Optimal Transport in Linear Space via Hierarchical Refinement**  
-   [P. Halmos](https://www.linkedin.com/in/peter-halmos-680937124) *, J. Gold  * , and [B.J. Raphael](https://www.cs.princeton.edu/~braphael/)  
+   [P. Halmos](https://www.linkedin.com/in/peter-halmos-680937124) * , J. Gold  * , and [B.J. Raphael](https://www.cs.princeton.edu/~braphael/)  
    _(Submitted to ICML)_
 
 2. **Anomaly Detection in Spatial Transcriptomics via Spatially Localized Density Comparison**  
