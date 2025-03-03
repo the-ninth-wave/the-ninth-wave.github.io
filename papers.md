@@ -11,11 +11,11 @@
    *(Submitted to ISMB)*
 
 3. **Learning Latent Trajectories in Developmental Time Series with Hidden-Markov Optimal Transport**  
-   [P. Halmos](https://www.linkedin.com/in/peter-halmos-680937124)$^{ * }$, J. Gold$^{ * }$, [X. Liu](https://scholar.google.com/citations?user=ZiK_z9EAAAAJ&hl=en), and [B.J. Raphael](https://www.cs.princeton.edu/~braphael/)  
+   [P. Halmos](https://www.linkedin.com/in/peter-halmos-680937124)$^{ * }$, J. Gold $^{ * }$, [X. Liu](https://scholar.google.com/citations?user=ZiK_z9EAAAAJ&hl=en), and [B.J. Raphael](https://www.cs.princeton.edu/~braphael/)  
    *Accepted to RECOMB 2025*  
 
 4. **Low-Rank Optimal Transport through Factor Relaxation with Latent Coupling**  
-   [P. Halmos](https://www.linkedin.com/in/peter-halmos-680937124)$^{ * }$, [X. Liu](https://scholar.google.com/citations?user=ZiK_z9EAAAAJ&hl=en)$^{ * }$, J. Gold$^{ * }$, and [B.J. Raphael](https://www.cs.princeton.edu/~braphael/)  
+   [P. Halmos](https://www.linkedin.com/in/peter-halmos-680937124)$^{ * }$, [X. Liu](https://scholar.google.com/citations?user=ZiK_z9EAAAAJ&hl=en)$^{ * }$, J. Gold $^{ * }$, and [B.J. Raphael](https://www.cs.princeton.edu/~braphael/)  
    *The Thirty-Eighth Annual Conference on Neural Information Processing Systems (NeurIPS), 2024*  
    [OpenReview](https://openreview.net/forum?id=hGgkdFF2hR)
 
