@@ -4,11 +4,11 @@
 
 1. **Full-Rank Optimal Transport in Linear Space via Hierarchical Refinement**  
    [P. Halmos](https://www.linkedin.com/in/peter-halmos-680937124) * , J. Gold  * , and [B.J. Raphael](https://www.cs.princeton.edu/~braphael/)  
-   _(Submitted to ICML)_
+
 
 2. **Anomaly Detection in Spatial Transcriptomics via Spatially Localized Density Comparison**  
    [G. Hu](https://raphael-group.github.io/people/) * , J. Gold, [U. Chitra](https://uthsavc.github.io), [S. Joshi](https://www.linkedin.com/in/sunay-joshi/), and [B.J. Raphael](https://www.cs.princeton.edu/~braphael/)  
-   _(Submitted to ISMB)_
+   _Accepted to ISMB_
 
 3. **Learning Latent Trajectories in Developmental Time Series with Hidden-Markov Optimal Transport**  
    [P. Halmos](https://www.linkedin.com/in/peter-halmos-680937124) * , J. Gold * , [X. Liu](https://scholar.google.com/citations?user=ZiK_z9EAAAAJ&hl=en), and [B.J. Raphael](https://www.cs.princeton.edu/~braphael/)  
